@@ -1,0 +1,7 @@
+TERMINAL: kitty
+DE: X11
+WM: i3
+FILE MANAGER: ranger
+SHELL: Zshell
+BOOT LOADER: Grub
+IDE: nvim
