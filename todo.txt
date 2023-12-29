@@ -1,7 +1,11 @@
-TERMINAL: kitty
-DE: Wayland
-WM: qtile or ragnar
-FILE MANAGER: ranger
+TERMINAL: kitty (fallback: alacritty)
 SHELL: Zshell
 BOOT LOADER: Grub
+
+DE: wayland (fallback: x11)
+WM: qtile (fallback: using picom)
+WALLPAPER MANAGER: feh (fallback: nitrogen)
+
+IMAGE VIEWER: feh
+FILE MANAGER: ranger
 IDE: nvim, sublime, keynote
