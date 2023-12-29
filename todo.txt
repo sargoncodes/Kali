@@ -1,7 +1,7 @@
 TERMINAL: kitty
-DE: X11
-WM: i3
+DE: Wayland
+WM: qtile or ragnar
 FILE MANAGER: ranger
 SHELL: Zshell
 BOOT LOADER: Grub
-IDE: nvim
+IDE: nvim, sublime, keynote
